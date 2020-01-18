@@ -33,7 +33,7 @@ Ao voluntário responsável por coordenar as atividades do grupo na escola, cham
 
 
 ### 1.1 Antes do Evento
-- [ ] Se inscreva usando o formulário de inscrição. Acompanhe as inscrições e veja se existe outras pessoas da sua cidade ou escola.
+- [ ] Se inscreva usando o formulário de inscrição. Acompanhe as inscrições e veja se existem outras pessoas da sua cidade ou escola.
 - [ ] Contacte a escola, obtenha o e-mail da secretaria ou direção.
 - [ ] Encaminhe para escola o ofício de participação.
 - [ ] Descubra quais os horários das turmas que você vai visitar e agende com seus amigos para chegar cedo no turno.
@@ -48,10 +48,10 @@ Ao voluntário responsável por coordenar as atividades do grupo na escola, cham
 ## 1.2 No dia do Evento
 
 
-- [  ] Faça a visita das turmas, se possível, antes do intervalo do lanche e diga que estará na hora do intervalo em algum local combinado para quem quiser conversar mais.
-- [  ] Escolha o plano de apresentação que mais se adequar a realidade da sua escola ou monte o seu próprio.
-- [  ] Abra para dúvidas sobre os cursos, como é morar em outra cidade e as perspectivas de emprego no fim do curso. O que você não souber responder pegue o contato da pessoa e diga que vai responder por email ou pelo zap. Não esqueça de pedir que eles sigam nossas redes sociais. ( Insta: @ufc.nas.escolas)
-- [  ] Faça uma foto com cada turma e guarde para enviar pra gente depois.
+- [ ] Faça a visita das turmas, se possível, antes do intervalo do lanche e diga que estará na hora do intervalo em algum local combinado para quem quiser conversar mais.
+- [ ] Escolha o plano de apresentação que mais se adequar a realidade da sua escola ou monte o seu próprio.
+- [ ] Abra para dúvidas sobre os cursos, como é morar em outra cidade e as perspectivas de emprego no fim do curso. O que você não souber responder pegue o contato da pessoa e diga que vai responder por email ou pelo zap. Não esqueça de pedir que eles sigam nossas redes sociais. ( Insta: @ufc.nas.escolas)
+- [ ] Faça uma foto com cada turma e guarde para enviar pra gente depois.
 
 ## 1.3 Após o evento
 
@@ -63,7 +63,6 @@ Ao voluntário responsável por coordenar as atividades do grupo na escola, cham
 # 2. Plano de apresentação
 
 ![](guia.jpg)
-
 
 **Todas essas informações estarão no slide.**
 
