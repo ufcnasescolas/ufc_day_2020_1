@@ -4,16 +4,16 @@
 
 ## Introdução
 
-Queremos realizar uma grande divulgação da UFC nas escolas de ensino médio nas turmas de 2o e 3o ano, profissionalizantes e cursinhos. Cada bolsista e voluntário vai visitar as escolas e cursinhos na cidade em que estiverem durante a época do evento. Vão participar os alunos, ex-alunos e servidores da UFC Quixadá. 
+Queremos realizar uma grande divulgação da UFC nas escolas de ensino médio, profissionalizantes e cursinhos. Cada bolsista e voluntário vai visitar as escolas e cursinhos na cidade em que estiverem durante a época do evento. Vão participar alunos, ex-alunos e servidores da UFC Quixadá. 
 
 *Resumindo:*
 
-*   Servidores, Bolsistas e Voluntários,
-*   Visitar as escolas (ensino médio, profissionalizantes, cursinhos),
-*   Em várias cidades,
-*   No mesma época,
-*   Divulgando os cursos, auxílios e benefícios,
-*   Contando sua experiência,
+*   Servidores, Bolsistas e Voluntários.
+*   Visitar as escolas (ensino médio, profissionalizantes, cursinhos).
+*   Em várias cidades.
+*   Na mesma época.
+*   Divulgando os cursos, auxílios e benefícios.
+*   Contando sua experiência.
 *   E tirando dúvidas.
 
 ---
@@ -50,7 +50,7 @@ Ao voluntário responsável por coordenar as atividades do grupo na escola, cham
 
 - [ ] Faça a visita das turmas, se possível, antes do intervalo do lanche e diga que estará na hora do intervalo em algum local combinado para quem quiser conversar mais.
 - [ ] Escolha o plano de apresentação que mais se adequar a realidade da sua escola ou monte o seu próprio.
-- [ ] Abra para dúvidas sobre os cursos, como é morar em outra cidade e as perspectivas de emprego no fim do curso. O que você não souber responder pegue o contato da pessoa e diga que vai responder por email ou pelo zap. Não esqueça de pedir que eles sigam nossas redes sociais. ( Insta: @ufc.nas.escolas)
+- [ ] Abra para dúvidas sobre os cursos, como é morar em outra cidade e as perspectivas de emprego no fim do curso. O que você não souber responder pegue o contato da pessoa e diga que vai responder por email ou pelo zap. Não esqueça de pedir que eles sigam nossas redes sociais. ( Insta: @ufc.nas.escolas;site: ufcnasescolas.github.io)
 - [ ] Faça uma foto com cada turma e guarde para enviar pra gente depois.
 
 ## 1.3 Após o evento
